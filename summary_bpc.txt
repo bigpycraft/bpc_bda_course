@@ -4,3 +4,4 @@ Hello, GitHub !!
 # Last Message 
 
 It's lecture repository 
+Also It's updated daily.
